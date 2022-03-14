@@ -1,0 +1,14 @@
+.avatarPlace {
+  height: 150px;
+  width: 150px;
+  border: 1px solid black;
+  border-radius: 50%;
+  // background-image: url('/src/mock-data/img/ava.jpeg');
+  background-image: url();
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  img {
+    width: 100%;
+}
+}

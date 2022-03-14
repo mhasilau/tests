@@ -1,0 +1,13 @@
+
+
+.example-full-width {
+  width: 80%;
+
+}
+
+
+.info {
+  &-nickname, &-city, &-linkedin, &-github {
+    text-align: center;
+  }
+}

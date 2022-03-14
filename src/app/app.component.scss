@@ -1,0 +1,23 @@
+.wrapper {
+  padding: 0;
+  max-width: 1000px;
+  margin: 0 auto;
+
+  .content {
+    display: flex;
+
+  .navigation {
+    width: 15%;
+  }
+
+  .profile {
+    width: 20%;
+  }
+
+  app-main-page {
+    width: 100%;
+    text-align: center;
+  }
+
+  }
+}
